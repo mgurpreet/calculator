@@ -1,0 +1,16 @@
+public class Manager {
+
+   
+   public static void main(String[] args) {
+               
+     
+
+public class Calculator {
+   
+   int result;
+   
+   public int Add(int inputA, int inputB) {
+       result = inputA + inputB;
+       return result;
+   }
+}
